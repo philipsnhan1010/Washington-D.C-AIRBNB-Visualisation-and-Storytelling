@@ -11,7 +11,7 @@ Airbnb is an online American marketplace that allows property owners to list the
 - Price: A price dashboard to enable a reader to input a price and determine how that price compares to the price for similar properties. This dashboard should make it clear whether the reader’s price is aligned with the marketplace or not. 
 
 # Tech
-- Tableau.
+- Tableau
 
 # Containing files
 1. TerpBuy.sql: initial database script (create database, tables and insert data into tables).
