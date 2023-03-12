@@ -14,7 +14,6 @@ Airbnb is an online American marketplace that allows property owners to list the
 - Tableau
 
 # Containing files
-1. TerpBuy.sql: initial database script (create database, tables and insert data into tables).
-2. TerpBuy_data_dictionary.jpg: database dictionary.
-3. Terpbuy_Part_I.sql: part 1 SQL script
-4. TerpBuy_Part2.ipynb: a Jupyter Notebook file for Part 2
+1. listings.csv: Washington D.C AIRBNB data set.
+2. Inside Airbnb Data Dictionary.xlsx: data dictionary.
+3. Visualization and Storytelling Assignment_Airbnb_WashingtonDC.pdf: Washington D.C AIRBNB Insights Report
