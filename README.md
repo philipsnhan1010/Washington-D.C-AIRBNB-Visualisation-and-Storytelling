@@ -12,6 +12,8 @@ Airbnb is an online American marketplace that allows property owners to list the
 
 # Tech
 - Tableau
+- Data visualization
+- Storytelling 
 
 # Containing files
 1. listings.csv: Washington D.C AIRBNB data set.
